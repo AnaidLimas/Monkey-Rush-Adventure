@@ -89,10 +89,10 @@ Serie de ejercicios prácticos desarrollados durante la unidad temática para ap
 ### Ejercicios Realizados
 | Ejercicio | Descripción | Enlace Drive | Estado |
 |-----------|-------------|--------------|--------|
-| **Ejercicio 1** | Movimientos básicos en Unity | [🔗 Enlace]() | ⏳ Pendiente |
-| **Ejercicio 2** | Movimientos básicos de un personaje dentro de Unity | [🔗 Enlace]() | ⏳ Pendiente |
-| **Ejercicio 3** | Descripción | [🔗 Enlace]() | ⏳ Pendiente |
-| **Ejercicio 4** | Descripción breve | [🔗 Enlace]() | ⏳ Pendiente |
+| **Ejercicio 1** | **Práctica 01:** Movimiento Básico de Jugador | [🔗 Enlace]() | ⏳ Pendiente |
+| **Ejercicio 2** | **Práctica 02:** Mixamo o Pixel Adventure | [🔗 Enlace]() | ⏳ Pendiente |
+| **Ejercicio 3** | **Práctica 03:** Creación de Menú | [🔗 Enlace]() | ⏳ Pendiente |
+| **Ejercicio 4** | **Práctica 04:** Barra de Vida | [🔗 Enlace](https://drive.google.com/file/d/1W0uZXaZy6N1zHzZ08TH3x6KMLgwaKZUL/view?usp=drive_link) | ✅ Completada |
 | **Ejercicio 5** | Descripción breve | [🔗 Enlace]() | ⏳ Pendiente |
 | **Ejercicio 6** | Descripción breve | [🔗 Enlace]() | ⏳ Pendiente |
 | **Ejercicio 7** | Descripción breve | [🔗 Enlace]() | ⏳ Pendiente |
