@@ -1,148 +1,155 @@
-# Monkey Rush Adventure 
-## 🧩 Información del Proyecto
+# 🐒 **Monkey Rush Adventure**
 
-**Autor(es):** Citlali Anaid Limas Maya
-**Asignatura:** Desarrollo de Videojuegos 3D  
-**Plataforma:** Unity  
-**Fecha de creación:** 09/10/2025  
-**Última actualización:** 09/10/2025  
+> 🎮 *Un viaje salvaje entre lianas, plátanos y mucha diversión.*
 
 ---
 
-## 🐒 Descripción del Videojuego
+## 🧩 **Información del Proyecto**
 
-**Monkey Rush Adventure** es un videojuego de plataformas en 3D ambientado en un entorno selvático lleno de vida.  
-El jugador controla a un simpático changuito cuyo objetivo es recolectar plátanos, esquivar obstáculos y avanzar por diferentes niveles temáticos.  
-
-El juego busca fomentar la exploración, la coordinación y la toma de decisiones rápidas, combinando mecánicas de salto, movimiento y recolección con una historia ligera y divertida.
-
----
-
-## 🌿 Temática del Juego
-
-El título se desarrolla en una **selva tropical** llena de color y desafíos.  
-El protagonista, un pequeño mono aventurero, se embarca en un viaje para **rescatar a su familia** que ha sido capturada por un cazador furtivo.  
-Durante su travesía, enfrentará distintos entornos naturales que pondrán a prueba su agilidad y reflejos.
-
-**Niveles principales:**
-1. **Selva Básica:** Plataformas simples, troncos rodantes y lianas.
-2. **Río Salvaje:** Troncos flotantes, cascadas y cocodrilos.
-3. **Ruinas Antiguas:** Trampas, plataformas colapsables y túneles.
-4. **Volcán Final:** Lava, rocas cayendo y un jefe final (gorila gigante).
+| Campo | Detalle |
+|-------|----------|
+| 👩‍💻 **Autor:** | Citlali Anaid Limas Maya |
+| 📚 **Asignatura:** | Desarrollo de Videojuegos 3D |
+| 🧠 **Plataforma:** | Unity |
+| 📅 **Fecha de creación:** | 09/10/2025 |
+| 🔄 **Última actualización:** | 09/10/2025 |
 
 ---
 
-## ⚙️ Mecánicas del Juego
+## 🌴 **Descripción del Videojuego**
 
-**Controles Principales:**
-- **Movimiento:** WASD o flechas direccionales  
-- **Salto:** Barra espaciadora  
-- **Balanceo en lianas:** Click izquierdo  
-- **Habilidad especial (Dash):** Tecla Shift  
+**Monkey Rush Adventure** es un videojuego de plataformas **3D** ambientado en una **selva tropical** llena de desafíos.  
+El jugador controla a un **mono aventurero** que debe recolectar plátanos 🍌, esquivar obstáculos y rescatar a su familia atrapada por un cazador furtivo 🦧.  
 
-**Sistema de Progresión:**
-- Recolecta plátanos para avanzar de nivel.  
+El juego combina **exploración, coordinación y toma de decisiones rápidas**, ofreciendo una experiencia divertida, colorida y llena de vida.
+
+---
+
+## 🌿 **Temática y Niveles**
+
+La aventura transcurre en una **selva tropical**, con distintos escenarios que pondrán a prueba la agilidad del jugador:
+
+| Nivel | Nombre | Descripción |
+|-------|---------|-------------|
+| 🌳 **1. Selva Básica** | Plataformas simples, troncos rodantes y lianas. |
+| 🌊 **2. Río Salvaje** | Troncos flotantes, cascadas y cocodrilos. |
+| 🏛️ **3. Ruinas Antiguas** | Trampas, plataformas colapsables y túneles misteriosos. |
+| 🌋 **4. Volcán Final** | Lava, rocas cayendo y un jefe final: ¡el gorila gigante! |
+
+---
+
+## ⚙️ **Mecánicas del Juego**
+
+### 🎮 **Controles Principales**
+| Acción | Tecla |
+|--------|--------|
+| Moverse | `WASD` o Flechas |
+| Saltar | `Espacio` |
+| Balancearse | Click Izquierdo |
+| Dash / Habilidad Especial | `Shift` |
+
+### 🚀 **Progresión y Power-ups**
+- Recolecta plátanos 🍌 para avanzar de nivel.  
 - Cada nivel requiere una cantidad específica de plátanos para desbloquear el siguiente.  
-- Power-ups:
-  - 🍌 *Plátano dorado*: Invencibilidad temporal.  
-  - 🥥 *Coco*: Aumenta la velocidad del personaje.  
 
-**Obstáculos:**
-- Serpientes, rocas rodantes, trampas de picos, plantas carnívoras y bolas de fuego.  
+**Power-ups disponibles:**
+- 🍌 *Plátano Dorado:* Invencibilidad temporal.  
+- 🥥 *Coco:* Aumenta la velocidad.  
 
-**Extras:**
-- Efectos de sonido cómicos y música ambiental alegre.  
-- Tabla de puntuación local.  
-- Tienda de cosméticos: sombreros, accesorios y skins especiales.  
+### ⚠️ **Obstáculos**
+Serpientes 🐍, rocas rodantes 🪨, trampas de picos ⚔️, plantas carnívoras 🌿 y bolas de fuego 🔥.
 
----
-
-## 🎨 Ideas del Menú Principal
-
-- Animación del changuito realizando movimientos graciosos.  
-- Botones con forma de hojas de plátano.  
-- Fondo animado con pájaros y sonidos de selva.  
-- Secciones: *Jugar*, *Seleccionar Nivel*, *Tienda*, *Opciones*, *Salir*.  
+### ✨ **Extras**
+- Efectos de sonido cómicos y música alegre 🎵  
+- Tabla de puntuación local 🏆  
+- Tienda de cosméticos 🎩 (sombreros, accesorios y skins)
 
 ---
 
-## 📋 Actividad 1A: Ejecución de Tutoriales Juego en 3D
+## 🏠 **Diseño del Menú Principal**
 
-### Objetivo
-El estudiante practicará los fundamentos de videojuegos en 3D con Unity mediante la realización de tutoriales del curso **"Create with Code"**.
-
-### Tutoriales Realizados
-| Lección | Descripción | Enlace Drive | Estado | Video | Imágenes |
-|---------|-------------|--------------|--------|--------|-----------|
-| **Lección 1** | El Control del Jugador | [🔗 Enlace]() | ⏳ Pendiente | [🎥 Video]() | [🖼️ Imagen]() |
-| **Lección 2** | Jugabilidad Básica | [🔗 Enlace]() | ⏳ Pendiente | [🎥 Video]() | [🖼️ Imagen]() |
-| **Lección 3** | Sonidos y Efectos | [🔗 Enlace]() | ⏳ Pendiente | [🎥 Video]() | [🖼️ Imagen]() |
-| **Lección 5** | Interfaz de Usuario | [🔗 Enlace]() | ⏳ Pendiente | [🎥 Video]() | [🖼️ Imagen]() |
-
----
-
-## 🎯 Actividad 3: Ejercicios Prácticos Saber-Hacer
-
-### Descripción
-Serie de ejercicios prácticos desarrollados durante la unidad temática para aplicar los conocimientos adquiridos en Unity.
-
-### Ejercicios Realizados
-| Ejercicio | Descripción | Enlace Drive | Estado |
-|-----------|-------------|--------------|--------|
-| **Ejercicio 1** | **Práctica 01:** Movimiento Básico de Jugador | [🔗 Enlace]() | ⏳ Pendiente |
-| **Ejercicio 2** | **Práctica 02:** Mixamo o Pixel Adventure | [🔗 Enlace]() | ⏳ Pendiente |
-| **Ejercicio 3** | **Práctica 03:** Creación de Menú | [🔗 Enlace]() | ⏳ Pendiente |
-| **Ejercicio 4** | **Práctica 04:** Barra de Vida | [🔗 Enlace](https://drive.google.com/file/d/1W0uZXaZy6N1zHzZ08TH3x6KMLgwaKZUL/view?usp=drive_link) | ✅ Completada |
-| **Ejercicio 5** | Descripción breve | [🔗 Enlace]() | ⏳ Pendiente |
-| **Ejercicio 6** | Descripción breve | [🔗 Enlace]() | ⏳ Pendiente |
-| **Ejercicio 7** | Descripción breve | [🔗 Enlace]() | ⏳ Pendiente |
-| **Ejercicio 8** | Descripción breve | [🔗 Enlace]() | ⏳ Pendiente |
-| **Ejercicio 9** | Descripción breve | [🔗 Enlace]() | ⏳ Pendiente |
-| **Ejercicio 10** | Descripción breve | [🔗 Enlace]() | ⏳ Pendiente |
+- Animación del mono haciendo gestos divertidos 🐵  
+- Botones con forma de hojas 🍃  
+- Fondo animado con aves y sonidos de la selva 🌺  
+- Secciones principales:
+  - 🎮 **Jugar**
+  - 🗺️ **Seleccionar Nivel**
+  - 🛍️ **Tienda**
+  - ⚙️ **Opciones**
+  - ❌ **Salir**
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## 🧠 **Actividad 1A: Ejecución de Tutoriales 3D**
 
-- **Unity 3D** (versión [X.X.X])  
-- **C#** para programación  
-- **Visual Studio / VS Code**  
-- **Git** para control de versiones  
+**Objetivo:**  
+Practicar fundamentos del desarrollo 3D en Unity mediante los tutoriales del curso *“Create with Code”*.
 
----
-
-## 📁 Estructura del Proyecto
-
-<img width="276" height="604" alt="image" src="https://github.com/user-attachments/assets/c854b581-d3a5-42ca-9a2f-d479c9164f09" />
-
----
-
-## 🗺️ Plan de Desarrollo
-
-1. **Fase 1:** Prototipo básico (movimiento + primer nivel).  
-2. **Fase 2:** Implementación de mecánicas principales (obstáculos, recolección).  
-3. **Fase 3:** Diseño y construcción de los 4 niveles.  
-4. **Fase 4:** Creación de interfaz (menús y HUD).  
-5. **Fase 5:** Sistema de tienda y progresión.  
-6. **Fase 6:** Pulido final (efectos, partículas, música).  
+| Lección | Descripción | Enlace | Estado | Video | Imágenes |
+|----------|--------------|---------|---------|----------|-----------|
+| 1️⃣ | El Control del Jugador | [🔗 Enlace]() | ⏳ Pendiente | [🎥 Video]() | [🖼️ Imagen]() |
+| 2️⃣ | Jugabilidad Básica | [🔗 Enlace]() | ⏳ Pendiente | [🎥 Video]() | [🖼️ Imagen]() |
+| 3️⃣ | Sonidos y Efectos | [🔗 Enlace]() | ⏳ Pendiente | [🎥 Video]() | [🖼️ Imagen]() |
+| 5️⃣ | Interfaz de Usuario | [🔗 Enlace]() | ⏳ Pendiente | [🎥 Video]() | [🖼️ Imagen]() |
 
 ---
 
-## 📞 Contacto
+## 🎯 **Actividad 3: Ejercicios Prácticos Saber-Hacer**
+
+| Ejercicio | Descripción | Enlace | Estado |
+|-----------|-------------|--------|--------|
+| 🧩 **Ejercicio 1** | Movimiento Básico de Jugador | [🔗 Enlace]() | ⏳ Pendiente |
+| 🧍‍♂️ **Ejercicio 2** | Mixamo o Pixel Adventure | [🔗 Enlace]() | ⏳ Pendiente |
+| 🧭 **Ejercicio 3** | Creación de Menú Principal | [🔗 Enlace]() | ⏳ Pendiente |
+| ❤️ **Ejercicio 4** | Barra de Vida | [🔗 Enlace](https://drive.google.com/file/d/1W0uZXaZy6N1zHzZ08TH3x6KMLgwaKZUL/view?usp=drive_link) | ✅ Completado |
+| ⚒️ **Ejercicio 5-10** | En desarrollo | [🔗 Enlace]() | ⏳ Pendiente |
+
+---
+
+## 💻 **Tecnologías Utilizadas**
+
+- 🧩 **Unity 3D** (versión X.X.X)  
+- 💬 **C#**  
+- 🧠 **Visual Studio / VS Code**  
+- 🌐 **Git / GitHub** para control de versiones  
+
+---
+
+## 📁 **Estructura del Proyecto**
+
+![Estructura del Proyecto](https://github.com/user-attachments/assets/c854b581-d3a5-42ca-9a2f-d479c9164f09)
+
+---
+
+## 🗺️ **Plan de Desarrollo**
+
+| Fase | Objetivo |
+|------|-----------|
+| 1️⃣ | Prototipo básico (movimiento + primer nivel) |
+| 2️⃣ | Mecánicas principales (obstáculos, recolección) |
+| 3️⃣ | Diseño de los 4 niveles |
+| 4️⃣ | Interfaz (menús y HUD) |
+| 5️⃣ | Sistema de tienda y progresión |
+| 6️⃣ | Pulido final (efectos, partículas, música) |
+
+---
+
+## 📞 **Contacto**
 
 📱 **Teléfono:** 463377930  
-✉️ **Correo:** limasanaid@gmail.com
+✉️ **Correo:** [limasanaid@gmail.com](mailto:limasanaid@gmail.com)
+
 ---
 
-## 📄 Licencia
+## ⚖️ **Licencia**
 
-Este proyecto fue desarrollado con fines educativos.  
-Todos los derechos reservados © 2025.  
+> Proyecto desarrollado con fines educativos.  
+> Todos los derechos reservados © 2025 – *Citlali Anaid Limas Maya*
 
 ---
 
 <div align="center">
 
-**⌨️ Desarrollado con dedicación y pasión por el desarrollo de videojuegos** 🎮  
+💛 **“Desarrollado con pasión por el mundo de los videojuegos”** 🎮  
 
 </div>
