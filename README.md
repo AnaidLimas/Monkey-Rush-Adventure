@@ -87,10 +87,11 @@ Practicar fundamentos del desarrollo 3D en Unity mediante los tutoriales del cur
 
 | Lección | Descripción | Enlace | Estado | Video | Imágenes |
 |----------|--------------|---------|---------|----------|-----------|
-| 1️⃣ | El Control del Jugador | [🔗 Enlace]() | ⏳ Pendiente | [🎥 Video]() | [🖼️ Imagen]() |
-| 2️⃣ | Jugabilidad Básica | [🔗 Enlace]() | ⏳ Pendiente | [🎥 Video]() | [🖼️ Imagen]() |
-| 3️⃣ | Sonidos y Efectos | [🔗 Enlace]() | ⏳ Pendiente | [🎥 Video]() | [🖼️ Imagen]() |
-| 5️⃣ | Interfaz de Usuario | [🔗 Enlace]() | ⏳ Pendiente | [🎥 Video]() | [🖼️ Imagen]() |
+| 1️⃣ | El Control del Jugador | [📄 Documento](https://docs.google.com/document/d/1FW8ryLlJGr4JvQ3kjlA-fUNoR8FRlMcu/edit?usp=sharing&ouid=111773052122018257691&rtpof=true&sd=true) | ✅ Completado | [🎥 Video](https://drive.google.com/file/d/1eftHYZE8c4tc5xC0QSw0v5OpEQnAXXaJ/view?usp=sharing) | [🖼️ Imagen](https://drive.google.com/file/d/1A1MSBoA58DYUCIAaudZZ90xIRDLtrP3g/view?usp=sharing) |
+| 2️⃣ | Jugabilidad Básica | [📄 Documento](https://docs.google.com/document/d/1H5mpPEuFEec2TLrkMtohLsZhI5L1HANP/edit?usp=drive_link&ouid=111773052122018257691&rtpof=true&sd=true) | ✅ Completado | [🎥 Video](https://drive.google.com/file/d/1VWqj7LAflYn0kHKAaYclVzU94xI2hszH/view?usp=drive_link) | [🖼️ Imagen](https://drive.google.com/file/d/10PRGJcJ3jjnq96AWexe0Z_nd3WUs1cSE/view?usp=drive_link) |
+| 3️⃣ | Sonidos y Efectos | [📄 Documento](https://docs.google.com/document/d/1h0SchLTj7louk2xFxGe9S82duj3muzqq/edit?usp=drive_link&ouid=111773052122018257691&rtpof=true&sd=true) | ✅ Completado | [🎥 Video](https://drive.google.com/file/d/1NgFpggM6G5OFZmdYKmTsdvBQQzlDvttB/view?usp=drive_link) | [🖼️ Imagen](https://drive.google.com/file/d/1THK3IQ-gkRItzjWZ-MrM_p5m9NGtl6FW/view?usp=drive_link) |
+| 5️⃣ | Interfaz de Usuario | [📄 Documento]() | ⏳ Pendiente | [🎥 Video]() | [🖼️ Imagen]() |
+
 
 ---
 
@@ -98,11 +99,11 @@ Practicar fundamentos del desarrollo 3D en Unity mediante los tutoriales del cur
 
 | Ejercicio | Descripción | Enlace | Estado |
 |-----------|-------------|--------|--------|
-| 🧩 **Ejercicio 1** | Movimiento Básico de Jugador | [🔗 Enlace]() | ⏳ Pendiente |
-| 🧍‍♂️ **Ejercicio 2** | Mixamo o Pixel Adventure | [🔗 Enlace]() | ⏳ Pendiente |
-| 🧭 **Ejercicio 3** | Creación de Menú Principal | [🔗 Enlace]() | ⏳ Pendiente |
-| ❤️ **Ejercicio 4** | Barra de Vida | [🔗 Enlace](https://drive.google.com/file/d/1W0uZXaZy6N1zHzZ08TH3x6KMLgwaKZUL/view?usp=drive_link) | ✅ Completado |
-| ⚒️ **Ejercicio 5-10** | En desarrollo | [🔗 Enlace]() | ⏳ Pendiente |
+| 🧩 **Práctica 01** | Movimiento Básico de Jugador | [🔗 Enlace](https://drive.google.com/file/d/1pYM5JXPD5iYrIVPj85gzGDhiVjn70lDQ/view?usp=drive_link) | ✅ Completado |
+| 🧍‍♂️ **Práctica 02** | Mixamo o Pixel Adventure | [🔗 Enlace](https://drive.google.com/file/d/106MZOGpzLk5w-Outz4JFe0Ka_wK2H_9m/view?usp=drive_link) | ✅ Completado |
+| 🧭 **Práctica 03** | Creación de Menú | [🔗 Enlace](https://drive.google.com/file/d/1OWEWK2Gmp3t-hvPtttgzMDY9Ud5xlsg5/view?usp=drive_link) | ✅ Completado |
+| ❤️ **Práctica 04** | Barra de Vida | [🔗 Enlace](https://drive.google.com/file/d/1W0uZXaZy6N1zHzZ08TH3x6KMLgwaKZUL/view?usp=drive_link) | ✅ Completado |
+| 🧑‍🤝‍🧑 **Práctica 05** | Selección de Personajes | [🔗 Enlace](https://drive.google.com/file/d/1ARrONQXqAmzyZQ1gyJVZul1l7mK6o4vK/view?usp=drive_link) | ✅ Completado |
 
 ---
 
